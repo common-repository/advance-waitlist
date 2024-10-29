@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+ .page-title-action 
+ {
+    display:none;
+}
+#misc-publishing-actions,#minor-publishing-actions
+{
+     display:none;
+}
+#submitdiv.postbox 
+{
+	margin-top: 70px;
+}

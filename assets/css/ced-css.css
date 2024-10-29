@@ -1,0 +1,232 @@
+@CHARSET "UTF-8";
+
+div#message.updated
+{
+	display: none;
+}
+.content_email_div 
+{
+	display: block;
+}
+#TB_ajaxWindowTitle{
+	text-align:center;
+}
+#TB_window{
+	width:400px!important;
+	height:250px!important;
+	margin-left:-14%!important;
+	margin-right:auto!important;
+}
+.license_loading_image {
+ height: 28px;
+ vertical-align: middle;
+ display:none;
+}
+.ced_first_class{
+	margin-top : 6px;
+}
+.content_email_div{
+	display:none;
+	margin-top: 10px;
+}
+.ced_second_class{
+	display:inline-block;
+}
+.ced_third_class{
+	display:inline-block ;
+	vertical-align:top;
+	margin-top: 68px;
+	margin-left:10px;
+}
+#select_email_variable{
+	width:100px;
+}
+#awl_text_link_div{
+	display:none ;
+	vertical-align:top;
+	margin-top: 163px;
+	margin-left:-104px;
+}
+.ced_fifth_class{
+	margin-top: 6px;
+}
+#demo_preview_mail{
+	display:inline-block;
+}
+#success_mail{
+	display: none; 
+	width:57%;
+	display: none
+}
+#failed_mail{
+	width:57%;
+	display: none
+}
+#error_div{
+	display:none;
+}
+.ced_metabox_one{
+	border-color: #eee #eee #eee red;
+	border-left: 5px solid red;
+	border-style: solid;
+	border-width: 1px 1px 1px 5px;
+	padding: 10px;
+	width: 97%;
+}
+.common_awl_class{ 
+	display: inline-block;
+	width: 45%;
+}
+.ced_metabox_common{
+	display: inline-block;
+	margin-left: 67px;
+}
+.ced_metabox_three{
+	margin-top: 25px;
+}
+.common_awl_class{
+	margin-top: 10px;
+}
+#metakeyselect{
+	width:"200px";
+}
+/****/
+.aw-text-center{
+	text-align: center !important;
+}
+.aw-text-center-head{
+	text-align: center !important;
+	font-weight: bold !important;
+	color: #000000 !important;
+}
+.aw-enabled{
+	
+	width: 30px;
+	height:30px;
+	border-radius:15px;
+	background-color:#00b33c;
+	margin: 0 auto;
+}
+.aw-disabled{
+	
+	width: 30px;
+	height:30px;
+	border-radius:15px;
+	background-color:#ff0000;
+	margin: 0 auto;
+}
+/****/
+
+
+ /* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {display:none;}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #adf321;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+.fst_col1 {
+    float: left;
+    width: 25%;
+}
+.fst_col12 {
+    margin-top: 18px;
+}
+.fst_col2 {
+    float: left;
+    width: 40%;
+}
+.fst_col22 {
+    margin-top: 18px;
+    text-align:center;
+}
+.fst_col12 > input {
+    margin-top: 18px;
+}
+.clear{
+	clear:both;
+}
+.fst_col21 {
+    text-align: right;
+}
+/* #side-sortables{
+	display: none;
+} */
+/* #post-body.columns-2 #postbox-container-1 {
+    display: none;
+} */
+
+#adminmenu a[href*="waitingnou_button-admin.php"] {
+	display: none !important;
+}
+.wrap.woocommerce {
+	background: white;
+	padding: 20px 30px;
+	box-shadow: 4px 4px 0px -3px #a2a0a0;
+}
+.fst_col1 {
+	float: left;
+	width: 35%;
+}
+.fst_col22 {
+	margin-top: -10px;
+	text-align: left;
+	padding-left: 16px;
+}
+.fst_col12 {
+	margin-top: -25px;
+}
+.ced_show_users_metabox {
+	margin-bottom: 11px;
+}

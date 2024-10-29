@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance-Waitlist\n"
+"POT-Creation-Date: 2016-06-01 13:18+0530\n"
+"PO-Revision-Date: 2016-06-01 13:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: cedcommerce <plugins@cedcommerce.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/recently_free/wp-content/plugins/"
+"advance-waitlist\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ced_waitlist.php:122
+msgid "Settings"
+msgstr ""
+
+#: ced_waitlist.php:282
+msgid ""
+"Woocommerce is not activated. Please install woocommerce to use the Advance "
+"Waitlist plugin !"
+msgstr ""
+
+#: templates/admin-general.php:43
+msgid "The Setting saved successfully."
+msgstr ""
+
+#: templates/admin-general.php:56
+msgid "General Options"
+msgstr ""
+
+#: templates/admin-general.php:60
+msgid "Deactivation mode"
+msgstr ""
+
+#: templates/admin-general.php:64
+msgid "Deactivation"
+msgstr ""
+
+#: templates/admin-general.php:70
+msgid ""
+"Enable it if you want to Keep the related data safe while deactivating the "
+"plugin"
+msgstr ""
+
+#: templates/admin-general.php:78
+msgid "Add button label"
+msgstr ""
+
+#: templates/admin-general.php:84
+msgid "The label of the button to be added to the waitlist."
+msgstr ""
+
+#: templates/admin-general.php:90
+msgid " Successfully added message"
+msgstr ""
+
+#: templates/admin-general.php:96
+msgid "Text for successful addition of product into waitlist."
+msgstr ""
+
+#: includes/ced_metabox.php:77
+msgid "Change Stock Status"
+msgstr ""
+
+#: includes/ced_metabox.php:170
+msgid "The product which you have added in your waitlist is in stock now!!"
+msgstr ""
+
+#: includes/ced_metabox.php:176 includes/ced_waitlist_main.php:301
+msgid "Product Name"
+msgstr ""
+
+#: includes/ced_metabox.php:179
+msgid "Status"
+msgstr ""
+
+#: includes/ced_metabox.php:182
+msgid "Quantity"
+msgstr ""
+
+#: includes/ced_metabox.php:185
+msgid "Link to your waitlist"
+msgstr ""
+
+#: includes/ced_metabox.php:189
+msgid "Thanks"
+msgstr ""
+
+#: includes/ced_metabox.php:353
+msgid "Set quantity for the product"
+msgstr ""
+
+#: includes/ced_metabox.php:355
+msgid "Number of quantity requested"
+msgstr ""
+
+#: includes/ced_metabox.php:361
+msgid "Emails of registered users"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:304
+msgid "User Email"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:307
+msgid "Action"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:511
+msgid "This product is reserved for specific users"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:585 includes/ced_waitlist_main.php:608
+#, php-format
+msgid ""
+"You cannot add that amount to the cart because there is not enough stock(%s "
+"remaining) ."
+msgstr ""
+
+#: includes/ced_waitlist_main.php:590
+#, php-format
+msgid ""
+"You cannot add that amount to the cart because you have already(%s) in cart ."
+msgstr ""
+
+#: includes/ced_waitlist_main.php:784
+msgid "Total WaitList Request"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:785
+msgid "Available Stock Quantity"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:786
+msgid "Registered users"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:787
+msgid "Waitlisted"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:788
+msgid "Product"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:983
+#, php-format
+msgid "See %s more…"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:1000
+msgid "Today"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:1004
+msgid "Tomorrow"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:1009
+msgid "M jS"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:1012
+#, php-format
+msgid ""
+"<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a><span style=\"margin-"
+"left :76px\">%5$s waitlist request</span>"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:1050
+msgid "Recently waitlisted Products"
+msgstr ""
+
+#: includes/ced_waitlist_main.php:1058
+msgid "No Waitlist yet!"
+msgstr ""
+
+#: includes/ced_plugin_class.php:74 includes/ced_plugin_class.php:339
+msgid "The email is alredy registered for the Waitlist"
+msgstr ""
+
+#: includes/ced_plugin_class.php:81 includes/ced_plugin_class.php:359
+msgid "Email field can not be left blank."
+msgstr ""
+
+#: includes/ced_plugin_class.php:99
+msgid "WaitList"
+msgstr ""
+
+#: includes/ced_plugin_class.php:100
+msgid "Waitlist"
+msgstr ""
+
+#: includes/ced_plugin_class.php:202 includes/ced_plugin_class.php:263
+msgid "Add To WaitList"
+msgstr ""
+
+#: includes/ced_plugin_class.php:208 includes/ced_plugin_class.php:276
+msgid "Email Address"
+msgstr ""
+
+#: includes/ced_plugin_class.php:265
+msgid "Remove from wait list"
+msgstr ""
+
+#: includes/ced_plugin_class.php:269
+msgid "Remove from waitlist"
+msgstr ""
+
+#: includes/ced_plugin_class.php:379
+msgid "Product is removed from your waitlist"
+msgstr ""
+
+#: includes/ced_plugin_class.php:383
+msgid "An error has occurred. Please try again."
+msgstr ""
